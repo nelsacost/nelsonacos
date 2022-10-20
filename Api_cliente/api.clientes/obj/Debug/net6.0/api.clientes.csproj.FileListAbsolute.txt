@@ -1,0 +1,105 @@
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.csproj.AssemblyReference.cache
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.AssemblyInfoInputs.cache
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.AssemblyInfo.cs
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.csproj.CoreCompileInputs.cache
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\appsettings.json
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\api.clientes.exe
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\api.clientes.deps.json
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\api.clientes.runtimeconfig.json
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\api.clientes.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\ref\api.clientes.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\api.clientes.pdb
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Humanizer.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Npgsql.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\scopedcss\bundle\api.clientes.styles.css
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.csproj.CopyComplete
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\ref\api.clientes.dll
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.pdb
+C:\Repositorio\APIs\Aplicaciones y programacion web\8vo Semestre\api.clientes\api.clientes\obj\Debug\net6.0\api.clientes.genruntimeconfig.cache
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\appsettings.json
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\api.clientes.exe
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\api.clientes.deps.json
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\api.clientes.runtimeconfig.json
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\api.clientes.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\api.clientes.pdb
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Humanizer.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Npgsql.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.csproj.AssemblyReference.cache
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.AssemblyInfoInputs.cache
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.AssemblyInfo.cs
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.csproj.CoreCompileInputs.cache
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\scopedcss\bundle\api.clientes.styles.css
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.csproj.CopyComplete
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\refint\api.clientes.dll
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.pdb
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\api.clientes.genruntimeconfig.cache
+C:\Users\fiore\OneDrive\Escritorio\10mo Semestre Andrea Cabrini\Programacion\Clase\EF-Sample-Postgres-main\EF-Sample-Postgres-main\api.clientes\obj\Debug\net6.0\ref\api.clientes.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\appsettings.json
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\api.clientes.exe
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\api.clientes.deps.json
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\api.clientes.runtimeconfig.json
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\api.clientes.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\api.clientes.pdb
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Humanizer.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Npgsql.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.csproj.AssemblyReference.cache
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.AssemblyInfoInputs.cache
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.AssemblyInfo.cs
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.csproj.CoreCompileInputs.cache
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.MvcApplicationPartsAssemblyInfo.cs
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\scopedcss\bundle\api.clientes.styles.css
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.csproj.CopyComplete
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\refint\api.clientes.dll
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.pdb
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\api.clientes.genruntimeconfig.cache
+C:\Aplicacion y Programacion Web\Api_cliente\api.clientes\obj\Debug\net6.0\ref\api.clientes.dll
